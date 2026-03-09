@@ -92,4 +92,3 @@ Contributions are welcome! If you'd like to improve the logic for backend integr
 
 ---
 
-**Would you like me to help you write a `pubspec.yaml` file to match these imports?**
